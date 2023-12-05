@@ -4,27 +4,27 @@
   "id": "1",
   "username": "Ashwin Sunuwar",
   "userpost": "https://cdn.pixabay.com/photo/2023/11/27/20/41/polar-bear-8416167_960_720.jpg",
-  "userpostdescription": "Hello everyone.",
+  "userpostdescription": "Hello everyone."
   },
   {
   "userID": 2,
   "id": "2",
   "username": "Peter Griffin",
   "userpost": "https://cdn.pixabay.com/photo/2023/09/29/11/19/sunrays-8283601_1280.jpg",
-  "userpostdescription": "Hello people of Nepal.",
+  "userpostdescription": "Hello people of Nepal."
   },
   {
   "userID": 3,
   "id": "3",
   "username": "Mad Magie",
   "userpost": "https://cdn.pixabay.com/photo/2023/09/22/10/56/goldfinch-8268805_1280.jpg",
-  "userpostdescription": "whats up grumps",
+  "userpostdescription": "whats up grumps"
   },
   {
   "userID": 4,
   "id": "4",
   "username": "Louis Griffin",
   "userpost": "https://cdn.pixabay.com/photo/2023/11/20/23/11/woman-8402067_1280.jpg",
-  "userpostdescription": "Peter griffins wife.",
+  "userpostdescription": "Peter griffins wife."
   }
 }
