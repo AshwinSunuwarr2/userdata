@@ -1,0 +1,30 @@
+{
+  {
+  "userID": 1,
+  "id": "1",
+  "username": "Ashwin Sunuwar",
+  "userpost": "",
+  "userpostdescription": "Hello everyone.",
+  },
+  {
+  "userID": 2,
+  "id": "2",
+  "username": "Peter Griffin",
+  "userpost": "",
+  "userpostdescription": "Hello people of Nepal.",
+  },
+  {
+  "userID": 3,
+  "id": "3",
+  "username": "Mad Magie",
+  "userpost": "",
+  "userpostdescription": "whats up grumps",
+  },
+  {
+  "userID": 4,
+  "id": "4",
+  "username": "Louis Griffin",
+  "userpost": "",
+  "userpostdescription": "Peter griffins wife.",
+  }
+}
