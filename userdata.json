@@ -3,6 +3,7 @@
   "userID": 1,
   "id": "1",
   "username": "Ashwin Sunuwar",
+  "userprofilepic": "https://cdn.pixabay.com/photo/2023/09/24/09/16/cormorant-8272443_1280.jpg",
   "userpost": "https://cdn.pixabay.com/photo/2023/11/27/20/41/polar-bear-8416167_960_720.jpg",
   "userpostdescription": "Hello everyone."
   },
@@ -10,6 +11,7 @@
   "userID": 2,
   "id": "2",
   "username": "Peter Griffin",
+  "userprofilepic": "https://cdn.pixabay.com/photo/2023/10/04/14/43/rhino-8293830_1280.jpg",
   "userpost": "https://cdn.pixabay.com/photo/2023/09/29/11/19/sunrays-8283601_1280.jpg",
   "userpostdescription": "Hello people of Nepal."
   },
@@ -17,6 +19,7 @@
   "userID": 3,
   "id": "3",
   "username": "Mad Magie",
+  "userprofilepic": "https://cdn.pixabay.com/photo/2023/10/01/12/56/shih-tzu-8287355_1280.jpg",
   "userpost": "https://cdn.pixabay.com/photo/2023/09/22/10/56/goldfinch-8268805_1280.jpg",
   "userpostdescription": "whats up grumps"
   },
@@ -24,6 +27,7 @@
   "userID": 4,
   "id": "4",
   "username": "Louis Griffin",
+  "userprofilepic": "https://cdn.pixabay.com/photo/2023/11/07/10/06/girl-8371776_1280.png",
   "userpost": "https://cdn.pixabay.com/photo/2023/11/20/23/11/woman-8402067_1280.jpg",
   "userpostdescription": "Peter griffins wife."
   }
